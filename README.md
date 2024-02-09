@@ -47,7 +47,7 @@ Depending on the environment you are in, the tool will perform different steps. 
         pip install kaggle
         ```
 
-    - Obtain your Kaggle API key by creating an API key on your Kaggle account and downloading the kaggle.json file containing it. Place the file in `~/.kaggle/kaggle.json` on your machine (/home/-user-/ or C:\\Users\\-user-\\).
+    - Obtain your Kaggle API key by creating an API key on your Kaggle account and downloading the kaggle.json file containing it. Place the file in `~/.kaggle/kaggle.json` on your machine (`/home/<user>/.kaggle/kaggle.json` or `C:\Users\<user>\.kaggle\kaggle.json`).
 
 2. **Kaggle**:
 
