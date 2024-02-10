@@ -24,7 +24,7 @@ dataset_path = setup_environment(
 )
 ```
 
-Import your main notebook from GitHub and grant permissions to Colab and/or Kaggle for access. Run the cell, and the tool will handle the environment setup automatically.
+Import your main notebook from GitHub and grant permissions to Colab and/or Kaggle if you want them to access your private repositories. Run the cell, and the tool will handle the environment setup automatically. The idea is that all your code resides within a GitHub repository, while your dataset is zipped (.zip) and accessible online through a downloadable link or stored in Kaggle. In the latter scenario, it can be in your Kaggle account (whether it's a private or public dataset) or in someone else's public dataset.
 
 ## Explanation
 
